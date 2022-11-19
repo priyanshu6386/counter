@@ -1,6 +1,5 @@
 import React, { useState , useEffect} from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './index.css'
     const CounterComponents = () => {
     const [count, setCount] = useState(0)
     
